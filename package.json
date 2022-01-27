@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./12-ternary.js",
+    "dev": "nodemon ./13-array-objects.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
